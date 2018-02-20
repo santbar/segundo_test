@@ -1,0 +1,27 @@
+/*
+Theme name: [Y]
+Description: Child theme based on twentytwelve
+Author: Vision UX
+Version: 1.0
+Template: twentytwelve
+*/
+
+@import url('../twentytwelve/style.css');
+
+body{
+  color: rgb(72, 72, 73);
+}
+
+.widget-area .widget a{
+    color: rgb(97, 195, 240);
+}
+
+.entry-title{
+  font-weight: 900;
+  font-size: 4em;
+}
+
+.site-header-home{
+  color: brown;
+  background-color: rgb(170, 102, 23);
+}
