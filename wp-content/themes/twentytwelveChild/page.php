@@ -31,5 +31,5 @@ if( is_front_page()) :
 		</div><!-- #content -->
 	</div><!-- #primary -->
 
-<?php //get_sidebar(); ?>
+<?php get_sidebar(); ?>
 <?php get_footer(); ?>
