@@ -25,3 +25,7 @@ body{
   color: brown;
   background-color: rgb(170, 102, 23);
 }
+
+h1{
+  font-family: Courier New, Courier, monospace;
+}
